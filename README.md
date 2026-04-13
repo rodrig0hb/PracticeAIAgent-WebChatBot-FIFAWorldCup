@@ -21,16 +21,16 @@ Powered by Google Gemini 2.5 Flash
 * Você encontra respostas precisas sobre a história completa da competição — desde a primeira edição em 1930 até os dias atuais.
 * Se preferir converse sobre um dos temas pré-sugeridos nos atalhos da parte superior do chat:
 
-🥇 Campeões históricos
-🇧🇷 Brasil na Copa
-📅 Copa de 1930
-⚽ Artilheiros
-🌍 Copa 2026
-😱 Maracanaço
-🏟️ Recordes
-🇦🇷 Argentina 2022
-⭐ Pelé
-🌐 Países-sede
+🥇 Campeões históricos  
+🇧🇷 Brasil na Copa  
+📅 Copa de 1930  
+⚽ Artilheiros  
+🌍 Copa 2026  
+😱 Maracanaço  
+🏟️ Recordes  
+🇦🇷 Argentina 2022  
+⭐ Pelé  
+🌐 Países-sede  
 
 ---
 
